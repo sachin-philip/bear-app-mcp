@@ -1,1 +1,3 @@
-# bear-app-mcp
+# Bear App mcp
+
+Coming soon!
